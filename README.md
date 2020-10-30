@@ -47,23 +47,14 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 ==================== After Windows Installed ====================
 
-11. When windows ask to create first user.
-Type username 'Admin'
-Type Computer name 'YourPC'
-Do not type any password.
-Skip Product key.
-Set time & timezone to original GMT time
+11. Setup your windows in your choice.(like installing Google Chrome)
 
-12. Do not active windows using any loader, keygen.
+12. when your all task complete, reconnect your flash drive from where you installed your current os.
 
-13. Setup your windows in your choice.(like pagefile)
+13. copy 'imagex' folder to your pendrive's root directory
 
-14. when your all task complete, reconnect your flash drive from where you installed your current os.
+14. Now boot your computer along with your flash drive.
 
-15. copy 'imagex' folder to your pendrive's root directory
-
-16. Now boot your computer along with your flash drive.
-
-17. When Windows installation setup opened. Press 'Shift+F10' into your keyboard, it will launch command prompt.
+15. When Windows installation setup opened. Press 'Shift+F10' into your keyboard, it will launch command prompt.
 
 Caution: It is the main part of your setup, in this position your all drive letter will be chaged, you need to detect your drives using 'cd' and 'dir' commands. If you do anything wrong, you may need to reinstall operating system.
