@@ -23,7 +23,7 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 --Windows 7  : https://www.stopback.tk/2020/01/windows-7-full-version-untouched-iso_9.html
 --Windows 10 : https://www.microsoft.com/en-in/software-download/windows10
 
-2. Clean setup WinToolkit. (which you found into 'Components')
+2. Clean setup WinToolkit. (which you found into 'Components' folder)
 --Extract DISM 10.exe
 --Install DISM
 (You can use WHDownloaded.exe for download windows & Office Updates)
