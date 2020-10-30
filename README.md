@@ -31,7 +31,7 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 3. Extract Windows iso file in a specific directory using WinToolkit
 
 4. Modify this fresh OS using winToolkit (If you don't want to modify os then you can skip this step)
---Just change setting, change those setting which you can't change manually into Online Windows.
+--Just change setting, change those setting which you can't change manually when Windows is installed.
 
 5. After modifying this os, open extracted path.
 
