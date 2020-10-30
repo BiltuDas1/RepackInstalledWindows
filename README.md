@@ -17,11 +17,12 @@ For Repacking Windows into install.wim file you need to follow below instruction
 or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 
-1. Download a fresh copy of windows.
-   Windows 7  : https://www.stopback.tk/2020/01/windows-7-full-version-untouched-iso_9.html
-   Windows 10 : https://www.microsoft.com/en-in/software-download/windows10
+(If you want to Repack Current Operating System then goto Step 11)
 
-2.Clean setup WinToolkit. (which you found on 'Modify OS.exe')
+1. Download a fresh copy of windows.
+   Windows 7  : https://www.stopback.tk/2020/01/windows-7-full-version-untouched-iso_9.html Windows 10 : https://www.microsoft.com/en-in/software-download/windows10
+
+2. Clean setup WinToolkit. (which you found on 'Modify OS.exe')
 --Extract Modify OS.exe
 --Extract DISM 10.exe
 --Install DISM
@@ -65,8 +66,7 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 14.Install applications in your choice. (like Google Chrome)
 
-15.Do not use crack applications. (like IDM crack) [Recommended, Why i tell it ask me]
---If you want to add it upload it into google drive. keep a shortcut of file link into your desktop with file name. (exam. IDM_crack.url)
+15.Do not use crack applications. (like IDM crack)
 
 16.Remove components from Programs and features.
 
