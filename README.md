@@ -48,16 +48,15 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 ==================== After Windows Installed ====================
 
 11. When windows ask to create first user.
---Type username 'Admin'
---Type Computer name 'YourPC'
---Do not type any password.
---Skip Product key.
---Set time & timezone to original GMT time
+Type username 'Admin'
+Type Computer name 'YourPC'
+Do not type any password.
+Skip Product key.
+Set time & timezone to original GMT time
 
 12. Do not active windows using any loader, keygen.
 
 13. Setup your windows in your choice.(like pagefile)
---Install applications (like Google Chrome)
 
 14. when your all task complete, reconnect your flash drive from where you installed your current os.
 
