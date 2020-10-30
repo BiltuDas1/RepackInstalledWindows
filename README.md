@@ -63,7 +63,7 @@ Caution: It is the main part of your setup, in this position your all drive lett
 
 17. If you find 'Program Files','Windows' folder in the list then Mark the drive as [System Drive]
 
-18. If you couldn't find Program Files','Windows' folder then type 'D:' and then 'dir' (Without quotes) and continue the step 17. #Contact
+18. If you couldn't find Program Files','Windows' folder then type 'D:' and then 'dir' (Without quotes) and continue the step 17. https://github.com/BiltuDas1/RepackInstalledWindows/blob/master/README.md#contact
 
 19. 
 
