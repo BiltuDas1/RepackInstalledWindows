@@ -65,7 +65,11 @@ Caution: It is the main part of your setup, in this position your all drive lett
 
 18. If you couldn't find Program Files','Windows' folder then type 'D:' and then 'dir' (Without quotes) and continue the step 17.
 
-19. 
+19. Now find the flash drive's Drive letter using above steps and mark the drive as [Flash Drive]
+
+20. If you has any other Partition then you need to find Drive letter of it, because We will save install.wim file in that partition (Also you can save it into your flash drive). Mark the drive as [Output Drive]
+
+21. Now we've got [System Drive], [Flash Drive], [Output Drive]. YOu need to goto into Flash drive and need to use 'CD Imagex' Command
 
 
 # Contact
