@@ -69,9 +69,16 @@ Caution: It is the main part of your setup, in this position your all drive lett
 
 20. If you has any other Partition then you need to find Drive letter of it, because We will save install.wim file in that partition (Also you can save it into your flash drive). Mark the drive as [Output Drive]
 
-21. Now we've got [System Drive], [Flash Drive], [Output Drive]. YOu need to goto into Flash drive and need to use 'CD Imagex' Command
+21. Now we've got [System Drive], [Flash Drive], [Output Drive]. YOu need to goto into [Flash drive] by typing Drive letter and use 'CD Imagex' Command.
+
+22. Type 'imagex /capture [System Drive] [Output Drive]\install.wim "Windows"' (Without quotes) and Wait few minutes (Sometime it takes few hours, depend on Processor speed and [System Drive] files).
+
+23. If imagex completed creating install.wim file then reboot your PC and eject Flash Drive.
+
+24. Now your install.wim file is ready, Try to open the file into WinToolkit and If it opened properly without any error then your file is ready to use. Copy and replace the file into your installation media 'Sources' folder.
+
+25. Now Install the OS using this Installation media. Hurray! You successfully REpacked your system. Now you can use it any PC.
 
 
 # Contact
-
 If you fail to understand above instructions then you can contact me at https://www.stopback.tk/p/contact-us.html
