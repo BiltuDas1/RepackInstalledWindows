@@ -19,8 +19,8 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 (If you want to Repack Current Operating System then goto Step 11)
 
-1. Download a fresh copy of windows.
-   Windows 7  : https://www.stopback.tk/2020/01/windows-7-full-version-untouched-iso_9.html Windows 10 : https://www.microsoft.com/en-in/software-download/windows10
+1. Download a fresh copy of windows
+Windows 7  : https://www.stopback.tk/2020/01/windows-7-full-version-untouched-iso_9.html Windows 10 : https://www.microsoft.com/en-in/software-download/windows10
 
 2. Clean setup WinToolkit. (which you found on 'Modify OS.exe')
 --Extract Modify OS.exe
