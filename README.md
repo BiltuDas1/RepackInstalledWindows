@@ -1,2 +1,4 @@
-# Repack your currently installed os into install.wim file
-Using this tool you can repack your currently Installed OS into your install.wim file.
+# What is it?
+It is a tool which will help you to Pack your Current operating System (Windows) into install.wim file.
+
+#
