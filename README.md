@@ -58,3 +58,7 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 15. When Windows installation setup opened. Press 'Shift+F10' into your keyboard, it will launch command prompt.
 
 Caution: It is the main part of your setup, in this position your all drive letter will be chaged, you need to detect your drives using 'cd' and 'dir' commands. If you do anything wrong, you may need to reinstall operating system.
+
+16. Type 'C:' and then 'dir' (Without quotes)
+
+17. If you find 'Program Files','Windows' folder in the list then Mark the drive as [System Drive]
