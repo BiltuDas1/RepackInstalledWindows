@@ -10,7 +10,7 @@ install.wim is a file which locate Sources folder into Windows Installation disk
 
 # Disadvantages
 1. A user account will be created automatically which you used earlier.
-2. If you upload your modified os into any social meadia or blog post then, who will download, they can access your personal information (such as chrome history, password)
+2. If you upload your modified os into any social media or blog post then, who will download, they can access your personal information (such as chrome history, password)
 
 # How to Repack OS into install.wim file?
 For Repacking Windows into install.wim file you need to follow below instructions.
