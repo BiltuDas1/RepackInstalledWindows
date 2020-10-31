@@ -7,5 +7,5 @@ assignees: BiltuDas1
 
 ---
 
-**What feature you want to add in this?**
-Please describe clearly in details that what feature you want to add in this project.
+**What feature you want to add to this?**
+Please describe clearly in detail that what feature you want to add to this project.
