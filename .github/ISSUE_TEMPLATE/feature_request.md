@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Tell me which feature I forgot to add
+about: Tell me which feature I forgot to add, According to you
 title: ''
 labels: ''
 assignees: BiltuDas1
