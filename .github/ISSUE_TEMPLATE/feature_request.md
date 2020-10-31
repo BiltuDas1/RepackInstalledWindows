@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Tell me which feature I forgot to add, According to you
-title: Feature Request in RepackInstalledOS
+title: Feature Request in RepackInstalledWindows
 labels: ''
 assignees: BiltuDas1
 
