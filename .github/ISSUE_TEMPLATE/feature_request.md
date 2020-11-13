@@ -8,4 +8,4 @@ assignees: BiltuDas1
 ---
 
 **What feature you want to add to this?**
-Please describe me clearly that which feature you like to add in it.
+Please describe to me clearly that which feature you like to add to it.
