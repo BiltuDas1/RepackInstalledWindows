@@ -81,4 +81,4 @@ Edit : If you dont has any Bootable USB then you can download [Windows7 SuperLit
 
 
 # Contact
-If you fail to understand above instructions then you can contact me at [STOPBACK](https://www.stopback.tk/p/contact-us.html)
+If you fail to understand above instructions then you can contact me at [Telegram](https://t.me/BiltuDas1)
