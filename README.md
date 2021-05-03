@@ -14,7 +14,7 @@ For Repacking Windows into install.wim file you need to follow below instruction
 or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 
-(If you want to Repack Current Operating System then goto Step 13)
+(If you want to Repack Current Operating System then goto [Step 12](#current-os))
 
 1. Download a fresh copy of windows  
 --Windows 7  : https://www.stopback.tk/2020/01/windows-7-full-version-untouched-iso_9.html  
@@ -46,9 +46,7 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 11. Setup your windows in your choice.(like installing Google Chrome)
 
-<a id='current-os'>
-  12. when your all task complete, reconnect your flash drive from where you installed your current os.
-</a>
+<p id='current-os'>12. when your all task complete, reconnect your flash drive from where you installed your current os.</p>
 
 13. copy 'imagex' folder to your pendrive's root directory
 
