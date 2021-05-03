@@ -46,7 +46,9 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 11. Setup your windows in your choice.(like installing Google Chrome)
 
-12. when your all task complete, reconnect your flash drive from where you installed your current os.
+<a id='current-os'>
+  12. when your all task complete, reconnect your flash drive from where you installed your current os.
+</a>
 
 13. copy 'imagex' folder to your pendrive's root directory
 
