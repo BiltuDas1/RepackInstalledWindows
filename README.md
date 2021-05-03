@@ -1,3 +1,5 @@
+[![SL Scan](https://github.com/BiltuDas1/RepackInstalledWindows/actions/workflows/shiftleft-analysis.yml/badge.svg)](https://github.com/BiltuDas1/RepackInstalledWindows/actions/workflows/shiftleft-analysis.yml)
+[![Donate](https://img.shields.io/badge/Buy%20me%20a-Coffee-blue.svg)](https://www.buymeacoffee.com/stopback)
 # What is install.wim file?
 install.wim is a file which locate Sources folder into Windows Installation disk. It includes whole C: drive files in maximum compression. While installing windows, installation media copies all files from install.wim to C: drive.
 
