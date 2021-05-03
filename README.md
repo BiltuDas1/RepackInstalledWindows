@@ -18,7 +18,8 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 1. Download a fresh copy of windows  
 --Windows 7  : https://www.stopback.tk/2020/01/windows-7-full-version-untouched-iso_9.html  
---Windows 10 : https://www.microsoft.com/en-in/software-download/windows10
+--Windows 10 : https://www.microsoft.com/en-in/software-download/windows10  
+--Rufus      : https://rufus.ie/en/
 
 2. Clean setup WinToolkit. (which you found into 'Components' folder)  
 --Extract DISM 10.exe  
@@ -47,7 +48,8 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 11. Setup your windows in your choice.(like installing Google Chrome)
 
 <p id='current-os'>12. when your all task complete, reconnect your flash drive from where you installed your current os.</p>
-Edit : If you dont has any Bootable USB then you can download [Windows7 SuperLite](https://archive.org/details/win7ultsp1superlitex64) which is just 1 GB and flash it using Rufus.
+
+Edit : If you dont has any Bootable USB then you can download [Windows7 SuperLite Edition](https://archive.org/details/win7ultsp1superlitex64) (Which is just 1 GB)
 
 13. copy 'imagex' folder to your pendrive's root directory
 
