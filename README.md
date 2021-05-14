@@ -51,8 +51,6 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 <p id='current-os'>12. when your all task complete, reconnect your flash drive from where you installed your current os.</p>
 
-Edit : If you dont has any Bootable USB then you can download [Windows7 SuperLite Edition](https://archive.org/details/win7ultsp1superlitex64) (Which is just 1 GB)
-
 13. copy 'imagex' folder to your pendrive's root directory
 
 14. Now boot your computer along with your flash drive.
