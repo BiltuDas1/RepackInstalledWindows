@@ -78,3 +78,6 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 24. Now your install.wim file is ready, Try to open the file into WinToolkit and If it opened properly without any error then your file is ready to use. Copy and replace the file into your installation media 'Sources' folder.
 
 25. Now Install the OS using this Installation media. Hurray! You successfully REpacked your system. Now you can use it any PC.
+
+# Contact
+If you are interested then you can join into our telegram group [@techsouls0](https://t.me/techsouls0) or channel [@tecsouls](https://t.me/tecsouls)
