@@ -79,5 +79,9 @@ or need to watch the video : https://www.youtube.com/watch?v=TvJkUdYp15w
 
 25. Now Install the OS using this Installation media. Hurray! You successfully REpacked your system. Now you can use it any PC.
 
+# Donation
+If you like my work then you can support me by donating into following addresses.
+### BTC : bc1qegx9kwdln6ch3cxl39as3k3ezxu6rrg2533vnq
+
 # Contact
 If you are interested then you can join into our telegram group [@techsouls0](https://t.me/techsouls0) or channel [@tecsouls](https://t.me/tecsouls)
